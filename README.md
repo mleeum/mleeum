@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @ciaglowies
-- 👀 I’m interested in deez nuts
-- 🌱 I’m currently learning how to live
-- 💞️ I’m looking to collaborate on your mom
-- 📫 How to reach me deez nuts
+- 👋 Hi, I’m Liam
+- learning python, CSS and HTML.
 
 <!---
 ciaglowies/ciaglowies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
